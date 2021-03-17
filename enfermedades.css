@@ -1,0 +1,17 @@
+.column{
+    background-color: rgb(255, 255, 255);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 251, 251);
+    font-size: 30px;
+    border: 1px solid white ;
+}
+ 
+p{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center ;
+    color: blueviolet;
+   background-color: rgb(255, 255, 255);
+    font-size: 20px ;
+}
+
+
